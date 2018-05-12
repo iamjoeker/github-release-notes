@@ -4,6 +4,7 @@ node_modules/
 npm-debug.log
 docs/_site
 docs/.sass-cache
+docs/github-release-notes
 coverage
 dist
 bin
